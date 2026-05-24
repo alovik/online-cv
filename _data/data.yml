@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: alovik@yahoo.com
-  official email: a.lovik@fsw.leidenuniv.nl
+  email: a.lovik@fsw.leidenuniv.nl
   timezone: Europe/Amsterdam # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
@@ -23,7 +23,7 @@ sidebar:
   gitlab:
   bitbucket:
   bluesky: '@aolovik.bsky.social' # Specify your full Bluesky handle
-  twitter: '@aolik'
+  twitter: '@aolovik'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
