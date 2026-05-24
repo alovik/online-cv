@@ -4,28 +4,26 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Anikó Lovik
+  tagline: Researcher
+  avatar: AL.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: alovik@yahoo.com
+  official email: a.lovik@fsw.leidenuniv.nl
+  timezone: Europe/Amsterdam # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  linkedin: 
+  github: alovik
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: '@aolovik.bsky.social' # Specify your full Bluesky handle
+  twitter: '@aolovik'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,250 +35,306 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Hungarian
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
+    - idiom: Dutch
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Music
       link:
 
-
-    - item: Snowboarding
+    - item: Reading
       link:
 
-
-    - item: Cooking
-      link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am a researcher interested in statistical and epidemilogical methods, how these methods can be used to solve real-world problems and how to best communicate them. 
+    My applied research is mainly focused on (public) mental health and amyotrophic lateral sclerosis.
+    I currently work as an Assistant profesor at the Methodology and Statistics Unit at Leiden University and I am also affiliated with the Unit of Integrative Epidemiology at Karolinska Institutet.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: PhD in Biomedical Sciences (Biostatistics)
+    university: KU Leuven
+    time: 2019
+  #  details: |
+   #   Describe your study here 
+   #     - Bullet point
+   #     - Bullet point
+  - degree: MSc in Artificial Intelligence
+    university: KU Leuven
+    time: 2015
+    #  details: |
+   #   Describe your study here 
+   #     - Bullet point
+   #     - Bullet point
 
 experiences:
-  title: Experiences
+  title: Employment
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - role: Assistant professor
+    time: 2023 - Present
+    company: Leiden University
+     #  details: |
+   #   Describe your study here 
+   #     - Bullet point
+   #     - Bullet point
+  - role: Post-doctoral researcher 
+    time: 2020 - 2025
+    company: Karolinska Institutet
+    #  details: |
+   #   Describe your study here 
+   #     - Bullet point
+   #     - Bullet point
+  - role: Teaching assistant and PhD researcher
+    time: 2013 - 2019
+    company: KU Leuven
+     #  details: |
+   #   Describe your study here 
+   #     - Bullet point
+   #     - Bullet point
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+#certifications:
+#  title: Certifications
+#  list:
+#  - name: 
+#    start: 
+#    end: 
+#    organization: 
+#    credentialid: 
+#    credentialurl: 
+#    credentialname: 
+#    details: |
+      Details about cert. 
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+ 
+#projects:
+#  title: Projects
+#  intro: >
+#    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  assignments:
+#  - title: Velocity
+#    link: "#hook"
+#    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#  - title: DevStudio
+#    link: "#"
+#    tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+  title: Publications (updated on 24-05-2026)
+#  intro: |
+#    You can list your publications in this section. 
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+- title: "Acute COVID-19 severity and impaired cognitive function up to 32 months after diagnosis: an observational study"
+  link: "https://doi.org/10.1186/s12916-026-04856-2"
+  authors: "Magnúsdóttir, I., Nygaard, A.B., Hoffart, A., Murphy, G., Koiv, K., ..., & Valdimarsdóttir, U. A."
+  conference: "BMC Medicine, online first (in press)"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+- title: "Methodological considerations in the analysis of survival data in amyotrophic lateral sclerosis"
+  link: "https://doi.org/10.1080/21678421.2026.2615111"
+  authors: "Yazdani, S., Seitz, C., Andersson, J., Ingre, C., Fang, F., & Lovik, A."
+  conference: "Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, online first (2026)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+- title: "The influence of social network on depressive and anxiety symptoms during the COVID-19 pandemic: findings from a Swedish cohort study"
+  link: "https://doi.org/10.1192/bjo.2025.10915"
+  authors: "Murphy, G. L., Joyce, E. E., Lovik, A., Gísladóttir, E. U., Vincze, K., Kähler, A. K., ... & Fang, F."
+  conference: "BJPsych Open, 12(1), e26 (2026)"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+- title: "Gender, care-seeking behavior, and adverse mental health during the first year of the COVID-19 pandemic in Sweden: an exploratory study"
+  link: "https://doi.org/10.1016/j.jpsychires.2025.07.042"
+  authors: "Vincze, K., Murphy, G., Barker, M. M., González-Hijón, J., Kähler, A. K., Frans, E. M., Sullivan, P.F, Valdimarsdóttir, U. A., Fang, F. & Lovik, A."
+  conference: "Journal of Psychiatric Research, 190, 235-247 (2025)"
 
-      He is a great employee!
+- title: "A short overview of variable types and how to choose them"
+  link: "https://doi.org/10.1192/bja.2025.10118"
+  authors: "Lovik, A."
+  conference: "BJPsych Advances, 32(1), 28-32 (2026)"
 
-skills:
-  title: Skills &amp; Proficiency
+- title: "Venous bicarbonate as a prognostic biomarker and proposed proxy for vital capacity to be used as an eligibility criterion in amyotrophic lateral sclerosis clinical trials"
+  link: "https://doi.org/10.1002/brb3.70570"
+  authors: "Foucher, J., Wellander, T., Lovik, A., Öijerstedt, L., Juto, A., Fang, F. & Ingre, C."
+  conference: "Brain and Behavior, 15(5), e70570 (2025)"
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+- title: "Plasma troponin T reflects lower motor neuron involvement on electromyography in amyotrophic lateral sclerosis"
+  link: "https://doi.org/10.1093/braincomms/fcaf177"
+  authors: "Chamoun, S., Imrell, S., Upate, Z., Kläppe, U., Öijerstedt, L., Yazdani, S., Andersson Franko, M., Foucher, J., Azizi, L., Lovik, A., Samuelsson, K., Press, R., Fang, F., Svennberg, E., Juto, A., & Ingre, C."
+  conference: "Brain Communications, 7(3), fcaf177 (2025)"
 
-  - name: Javascript & jQuery
-    level: 98%
+- title: "Use of common psychiatric medications in relation to risk and prognosis of ALS"
+  link: "https://doi.org/10.1001/jamanetworkopen.2025.14437"
+  authors: "Chourpiliadis, C., Lovik, A., Ingre, C., Press, R., Samuelsson, K., Valdimarsdóttir, U.A., & Fang, F."
+  conference: "JAMA Network Open, 8(6): e2514437 (2025)"
 
-  - name: Angular
-    level: 98%
+- title: "Cardiometabolic diseases in relation to the risk and progression of motor neuron diseases (MNDs) -- a study of the Swedish Motor Neuron Disease Quality Registry"
+  link: "https://doi.org/10.1016/j.lanepe.2024.101173"
+  authors: "Chourpiliadis, C., Lovik, A., Seitz, C., Hu, Y., Wu, J., Ljungman, P., Press, R., Samuelsson, K., Ingre, C., & Fang, F."
+  conference: "The Lancet Regional Health Europe, 49, 101173 (2025)"
 
-  - name: HTML5 & CSS
-    level: 95%
+- title: "Exploring clinical chemistry markers in amyotrophic lateral sclerosis: insights into survival and disease trajectories"
+  link: "https://doi.org/10.1007/s00415-024-12774-7"
+  authors: "Psychogios, I., Hu, Y., Seitz, C., Joyce, E.E., Lovik, A., Ingre, C., & Fang, F."
+  conference: "Journal of Neurology, 272(1), 1-11 (2025)"
 
-  - name: Ruby on Rails
-    level: 85%
+- title: "Statistical consulting guidelines for new researchers in psychiatry and mental health -- Beyond ChatGPT"
+  link: "https://doi.org/10.1192/bja.2024.61"
+  authors: "Lovik, A. & Dusseldorp, E."
+  conference: "BJPsych Advances, 31(2), 91-102 (2025)"
 
-  - name: Sketch & Photoshop
-    level: 60%
+- title: "Mental illness and COVID-19 vaccination: a multinational investigation of observational & register-based data"
+  link: "https://doi.org/10.1038/s41467-024-52342-1"
+  authors: "Barker, M. M., Koiv, K., Magnusdóttir, I., Milbourn, H., Wang, B., Du, X., Murphy, G., Herweijer, E., Gísladóttir, E. U., Li, H., Lovik, A., Kähler, A. K., ... & Fang, F."
+  conference: "Nature Communications, 15, 8124 (2024)"
+
+- title: "T cell subset composition differs between blood and cerebrospinal fluid in amyotrophic lateral sclerosis"
+  link: "https://doi.org/10.1016/j.clim.2024.110270"
+  authors: "Yazdani, S., Lovik, A., Seitz, C., Ingre, C., Fang, F., & Andersson, J."
+  conference: "Clinical Immunology, 265, 110270 (2024)"
+
+- title: "Lifestyle and medical conditions in relation to ALS risk and progression -- an introduction to the Swedish ALSrisc Study"
+  link: "https://doi.org/10.1007/s00415-024-12496-w"
+  authors: "Chourpiliadis, C., Seitz, C., Lovik, A., Joyce, E. E., Pan, L., Hu, Y., Kläppe, U., Samuelsson, K., Press, R., Ingre, C. & Fang, F."
+  conference: "Journal of Neurology, 271:5447-5459 (2024)"
+
+- title: "Repeated cognitive assessments show stable function over time in patients with ALS"
+  link: "https://doi.org/10.1007/s00415-024-12479-x"
+  authors: "Öijerstedt, L., Foucher, J., Lovik, A., Yazdani, S., Juto, A., Kläppe, U., Fang, F., & Ingre, C."
+  conference: "Journal of Neurology, 271, 5267-5274 (2024)"
+
+- title: "ECAS correlation with metabolic alterations on FDG-PET imaging in ALS"
+  link: "https://doi.org/10.1080/21678421.2024.2361695"
+  authors: "Foucher, J., Öijerstedt, L., Lovik, A., Sun, J., Ismail, M. M., Sennfält, S., Savitcheva, I., Estenberg, U., Pagani, M., Fang, F., Pereira, J. B., Ingre, I."
+  conference: "Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, 25(7-8), 708-716 (2024)"
+
+- title: "Metabolic profile and the subsequent risk of depression, anxiety, and stress-related disorders"
+  link: "https://doi.org/10.1001/jamanetworkopen.2024.4525"
+  authors: "Chourpiliadis, C., Zeng, Y., Lovik, A., Wei, D., Valdimarsdóttir, U.A., Song, H., Hammar, N., Fang, F."
+  conference: "JAMA Network Open, 7(4): e244525 (2024)"
+
+- title: "COVID-19 illness severity and 2-year prevalence of physical symptoms: an observational study in Iceland, Sweden, Norway and Denmark"
+  link: "https://doi.org/10.1016/j.lanepe.2023.100756"
+  authors: "Shen, Q., Joyce, E. E., Ebrahimi, O. V., Didriksen, M., Lovik, A., Sævarsdóttir, K. S., Magnúsdóttir, I., Mikkelsen, D. H., Unnarsdóttir, A. B., Hauksdóttir, A., Hoffart, A., Kähler, A. K., Thórdardóttir, E. B., Eythórsson, E., Frans, E. M., Tómasson, G., Ask, H., Hardardóttir, H., Jakobsdóttir, J., Lehto, K., Lu, L., Andreassen, O. A., Sullivan, P. F., Pálsson, R., Erikstrup, C., Ostrowski, S. R., Werge, T., Aspelund, T., Pedersen, O. B. V., Johnson, S. U., Fang, F., Valdimarsdóttir, U. A."
+  conference: "The Lancet Regional Health -- Europe, 35, e100756 (2023)"
+
+- title: "Neurodegenerative biomarkers outperform neuroinflammatory biomarkers in amyotrophic lateral sclerosis"
+  link: "https://doi.org/10.1080/21678421.2023.2263874"
+  authors: "Kläppe, U., Sennfält, S., Lovik, A., Finn, A., Bofaisal, U., Zetterberg, H., Blennow, K., Piehl, F., Kmezic, I., Press, R., Samuelsson, K., Månberg, A., Fang, F., Ingre, C."
+  conference: "Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, 25(1-2), 150-161 (2024)"
+
+- title: "Elevated symptoms of depression and anxiety among family members and friends of critically ill COVID-19 patients: an observational study of five cohorts across four countries"
+  link: "https://doi.org/10.1016/j.lanepe.2023.100733"
+  authors: "Lovik, A., González-Hijón, J., Hoffart, A., Fawns-Ritchie, C., Magnúsdóttir, I., Lu, L., ... & Fang, F."
+  conference: "The Lancet Regional Health -- Europe, 33, e100733 (2023)"
+
+- title: "Validity and reliability measures of the Swedish Karolinska version of the Edinburgh Cognitive and Behavioral ALS Screen (SK-ECAS)"
+  link: "https://doi.org/10.1080/21678421.2023.2239857"
+  authors: "Foucher, J., Winroth, I., Lovik, A., Sennfält, S., Pereira, J. B., Fang, F., Lulé, D., Andresen, P. M., & Ingre, C."
+  conference: "Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, 24(7-8), 713-718 (2023)"
+
+- title: "Unravelling the link between sleep and mental health during the COVID-19 pandemic"
+  link: "https://doi.org/10.1002/smi.3223"
+  authors: "González-Hijón, J., Kähler, A. K., Valdimarsdóttir, U. A., Frans, E. M., Sullivan, P. F., Fang, F. & Lovik, A."
+  conference: "Stress and Health, 39(4), 828-840 (2023)"
+
+- title: "Short-term improvement of mental health after a COVID-19 vaccination"
+  link: "https://doi.org/10.1371/journal.pone.0280587"
+  authors: "Chourpiliadis, C., Lovik, A., Kähler, A. K., Valdimarsdóttir, U. A., Frans, E. M., Nyberg, F., Sullivan, P.F. & Fang, F."
+  conference: "PLOS One, 18(2):e0280587 (2023)"
+
+- title: "Mental health indicators in Sweden over a 12-month period during the COVID-19 pandemic -- baseline data of the Omtanke2020 Study"
+  link: "https://doi.org/10.1016/j.jad.2022.11.004"
+  authors: "Lovik, A., González-Hijón, J., Kähler, A. K., Valdimarsdóttir, U. A., Frans, E. M., Magnusson, P. K. E., ... & Fang, F."
+  conference: "Journal of Affective Disorders, 322, 108-117 (2023)"
+
+- title: "T cell responses at diagnosis of amyotrophic lateral sclerosis predict disease progression"
+  link: "https://doi.org/10.1038/s41467-022-34526-9"
+  authors: "Yazdani, S., Cui, C., Seitz, C., Lovik, A., Pan, L., Piehl, F., Pawitan, Y., Kläppe, U., Samuelsson, K., Yin, L., Vu, T.N., Joly, A.-L., Westerberg, L., Evertsson, B., Ingre, C., Andersson, J., & Fang, F."
+  conference: "Nature Communications, 13, 6733 (2022)"
+
+- title: "New indicator for discordance between patient-reported and traditional disease activity outcomes in patients with early Rheumatoid Arthritis"
+  link: "https://doi.org/10.1093/rheumatology/keac213"
+  authors: "Pazmino, S., Lovik, A., Boonen, A., De Cock, D., Stouten, V., Joly, J., Bertrand, D., Van der Elst, K., Westhovens, R. & Verschueren, P."
+  conference: "Rheumatology, 62(1), 108-115 (2023)"
+
+- title: "Acute COVID-19 severity and 16-month mental morbidity trajectories in patient populations of six nations"
+  link: "https://doi.org/10.1016/S2468-2667(22)00042-1"
+  authors: "Magnúsdóttir, I., Lovik, A., Unnarsdóttir, A. B., McCartney, D. L., Ask, H., Kõiv, K., Christoffersen, L. A. N., Johnson, S.U., ... & Valdimarsdóttir, U. A."
+  conference: "Lancet Public Health, 7(5), e406-e416 (2022)"
+
+- title: "Evaluation of disease burden by (separate) patient-reported, clinical and laboratory factor-scores in patients with established rheumatoid arthritis: factor analysis replication"
+  link: "https://doi.org/10.3899/jrheum.210871"
+  authors: "Pazmino, S., Lovik, A., Westhovens, R. & Verschueren, P."
+  conference: "Journal of Rheumatology, 49(4), 436-437 (2022)"
+
+- title: "Cohort Profile: COVIDMENT: COVID-19 cohorts on mental health across six nations"
+  link: "https://doi.org/10.1093/ije/dyab234"
+  authors: "Unnarsdóttir, A. B., Lovik, A., Fawns-Ritchie, C., Ask, H., Kõiv, K., Hagen, K., Didriksen, M., Christoffersen, L. A. N., ... & Valdimarsdóttir, U. A."
+  conference: "International Journal of Epidemiology, 51(3), e108-e122 (2022)"
+
+- title: "Does Including Pain, Fatigue, and Physical Function When Assessing Patients with Early Rheumatoid Arthritis Provide a Comprehensive Picture of Disease Burden?"
+  link: "https://doi.org/10.3899/jrheum.200758"
+  authors: "Pazmino, S., Lovik, A., Boonen, A., De Cock, D., Stouten, V., Joly, J., Bertrand, D., Van der Elst, K., Westhovens, R. & Verschueren, P."
+  conference: "Journal of Rheumatology, 48(2), 174-178 (2021)"
+
+- title: "A modified Tucker's congruence coefficient for factor matching"
+  link: "https://doi.org/10.5964/meth.2813"
+  authors: "Lovik, A., Nassiri, V., Verbeke, G., & Molenberghs, G."
+  conference: "Methodology, 16(1), 59-74 (2020)"
+
+- title: "Combining factors from different factor analyses based on factor congruence"
+  link: "https://doi.org/10.1007/978-3-319-77249-3-18"
+  authors: "Lovik, A., Nassiri, V., Verbeke, G., & Molenberghs, G."
+  conference: "In: Wiberg, M., Culpepper, S.A., Janssen, R., González, J., & Molenaar, D. (Eds.) Quantitative Psychology: The 82nd Annual Meeting of the Psychometric Society, Zurich, Switzerland, 2017 (Vol. 233, p. 211-217). Springer, Cham (2018)"
+
+- title: "Nutritional and physical exercise programs for older people: program format preferences and (dis) incentives to participate"
+  link: "https://doi.org/10.2147/CIA.S159819"
+  authors: "Dedeyne, L., Dewinter, L., Lovik, A., Verschueren, S., Tournoy, J., & Gielen, E."
+  conference: "Clinical Interventions in Aging, 13, 1259-1266 (2018)"
+
+- title: "On using multiple imputation for exploratory factor analysis of incomplete data"
+  link: "https://doi.org/10.3758/s13428-017-1013-4"
+  authors: "Nassiri, V., Lovik, A., Molenberghs, G., & Verbeke, G."
+  conference: "Behavior Research Methods, 50(2), 501-517 (2018)"
+
+- title: "Evaluation of a very short test to measure the Big Five personality factors on a Flemish sample"
+  link: "N/A"
+  authors: "Lovik, A., Verbeke, G., & Molenberghs, G."
+  conference: "Journal of Psychological & Educational Research, 25(2), 7-17 (2017)"
+
+- title: "Psychometric properties and comparison of different techniques for factor analysis on the Big Five Inventory from a Flemish sample"
+  link: "https://doi.org/10.1016/j.paid.2017.05.048"
+  authors: "Lovik, A., Nassiri, V., Verbeke, G., Molenberghs, G., & Sodermans, A. K."
+  conference: "Personality and Individual Differences, 117, 122-129 (2017)"
+
+#recommendations:
+#  title: Recommendations
+#  list:
+#  - person: Yareli Perez
+#    email: perezyareli@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      Alan Doe is a super employee!
+
+
+#skills:
+#  title: Skills &amp; Proficiency
+
+#  toolset:
+#  - name: Python & Django
+#    level: 98%
+
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
