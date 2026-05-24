@@ -67,17 +67,13 @@ education:
   - degree: PhD in Biomedical Sciences (Biostatistics)
     university: KU Leuven
     time: 2019
-  #  details: |
-   #   Describe your study here 
-   #     - Bullet point
-   #     - Bullet point
+   # details: |
+     # Describe your study here 
+       # - Bullet point
+       # - Bullet point
   - degree: MSc in Artificial Intelligence
     university: KU Leuven
     time: 2015
-    #  details: |
-   #   Describe your study here 
-   #     - Bullet point
-   #     - Bullet point
 
 experiences:
   title: Employment
@@ -85,26 +81,19 @@ experiences:
   - role: Assistant professor
     time: 2023 - Present
     company: Leiden University
-     #  details: |
-   #   Describe your study here 
-   #     - Bullet point
-   #     - Bullet point
+      # details: |
+     # Describe your study here 
+       # - Bullet point
+       # - Bullet point
   - role: Post-doctoral researcher 
     time: 2020 - 2025
     company: Karolinska Institutet
-    #  details: |
-   #   Describe your study here 
-   #     - Bullet point
-   #     - Bullet point
   - role: Teaching assistant and PhD researcher
     time: 2013 - 2019
     company: KU Leuven
-    #  details: |
-   #   Describe your study here 
-   #     - Bullet point
-   #     - Bullet point
+    
 
-#certifications:
+# certifications:
 #  title: Certifications
 #  list:
 #  - name: 
@@ -115,7 +104,6 @@ experiences:
 #    credentialurl: 
 #    credentialname: 
 #    details: |
-      Details about cert. 
 
  
 #projects:
